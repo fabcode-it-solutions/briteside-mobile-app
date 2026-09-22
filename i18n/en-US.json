@@ -1,0 +1,142 @@
+{
+  "app": {
+    "name": "Briteside",
+    "tagline": "Connect. Meet. Grow."
+  },
+  "navigation": {
+    "tabs": {
+      "dashboard": "index",
+      "settings": "Settings",
+      "machine": "tab2",
+      "products": "tab3",
+      "billing": "tab4"
+    }
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": {
+      "title": "Login Your Account",
+      "subtitle": "Sign in to continue",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot Password",
+      "button": "Login",
+      "loginWithGoogle": "Login with Google",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Create your account to get started",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "button": "Sign Up",
+      "submitting": "Creating account...",
+      "hasAccount": "Already have an account?",
+      "logIn": "Login",
+      "legal": {
+        "notification": "You may receive notifications from us.",
+        "learnWhy": "Learn why we ask for your contact information",
+        "agreement": "By signing up, you agree to our",
+        "termsOfService": "Terms of Service",
+        "and": "and",
+        "privacyPolicy": "Privacy Policy"
+      }
+    },
+    "authStart": {
+      "title": "Welcome to Briteside",
+      "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "getStarted": "Get Started",
+      "googleSignIn": "Continue with Google",
+      "appleSignIn": "Continue with Apple",
+      "emailSignIn": "Continue with Email",
+      "newHere": "New here?",
+      "button": "Create an account",
+      "loginError": "Sign in failed"
+    },
+    "forgetpassword": {
+      "title": "Forget Password",
+      "subtitle": "Please enter your email to reset the password",
+      "email": "Email",
+      "button": "Reset Password",
+      "help": "Back to",
+      "login": "Login"
+    },
+    "passwordreset": {
+      "title": "Check Your Email",
+      "subtitle": "Enter 5 digit code that mentioned in the email"
+    },
+    "newpassword": {
+      "title": "Reset Password",
+      "password": "New Password",
+      "confirmPassword": "Confirm Password",
+      "help": "Back to Login",
+      "button": "Update Password",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    }
+  },
+  "errors": {
+    "network": "Network error. Please check your connection and try again.",
+    "invalidCredentials": "Invalid email or password. Please try again.",
+    "unknown": "Something went wrong. Please try again.",
+    "validation": {
+      "required": "This field is required",
+      "minLength": "Must be at least {{count}} characters",
+      "maxLength": "Must be at most {{count}} characters",
+      "email": {
+        "required": "Email is required",
+        "invalid": "Please enter a valid email address"
+      },
+      "password": {
+        "required": "Password is required",
+        "minLength": "Password must be at least 8 characters",
+        "complexity": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character"
+      },
+      "confirmPassword": {
+        "required": "Please confirm your password",
+        "mismatch": "Passwords do not match"
+      }
+    }
+  },
+  "notFound": {
+    "title": "Oops!",
+    "message": "This screen doesn't exist.",
+    "goHome": "Go to home screen!"
+  },
+  "settings": {
+    "title": "Settings",
+    "account": "Account",
+    "notifications": "Notifications",
+    "language": "Language",
+    "logoutError": "Error during logout",
+    "appearance": "Appearance",
+    "importFromPocket": "Import from Pocket",
+    "help": "Help & Support",
+    "about": "About",
+    "logout": "Logout",
+    "logoutConfirmMessage": "Are you sure you want to sign out?",
+    "deleteAccount": "Delete Account",
+    "deleteAccountConfirmMessage": "Are you sure you want to delete your account? This action cannot be undone and will permanently delete all your data.",
+    "deleteAccountError": "An error occurred while deleting your account. Please try again.",
+    "deletingAccount": "Deleting your account..."
+  },
+  "profile": {
+    "name": "Name",
+    "email": "Email"
+  }
+}
