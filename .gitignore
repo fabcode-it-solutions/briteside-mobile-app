@@ -95,10 +95,10 @@ yarn-error.*
 
 # Custom env rules
 # Ignore all env files by default, keep example tracked
-.env.*
 !.env.example
 temp_auto_push.bat
 temp_interactive_push.bat
 
 .env.env
 branch_structure.json
+config.bat

@@ -5,7 +5,7 @@
   "author": "Briteside",
   "description": "Briteside mobile application",
   "scripts": {
-    "start": "node api.js && expo start --dev-client",
+    "start": "node init && expo start --dev-client",
     "reset-project": "node ./scripts/reset-project.js",
     "android": "expo run:android",
     "ios": "expo run:ios",
